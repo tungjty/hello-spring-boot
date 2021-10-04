@@ -8,13 +8,13 @@
 
 # Added by TUNG HOANG
 
-*.md
+#*.md
 *.cmd
 .gitignore
 .project
 .settings
 target/
-*.xml
+#*.xml
 
 
 
