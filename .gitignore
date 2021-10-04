@@ -8,12 +8,12 @@
 
 # Added by TUNG HOANG
 
-#*.md
-#*.cmd
-#.gitignore
-#.project
-#.settings
-# target/
+*.md
+*.cmd
+.gitignore
+.project
+.settings
+target/
 
 
 
