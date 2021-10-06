@@ -1,7 +1,7 @@
 package com.example.hellospringboot;
 
-public class Login {
+public class Java41_AddTemplate_2 {
     public static void main(String[] args) {
-        System.out.println("This is login page");
+
     }
 }

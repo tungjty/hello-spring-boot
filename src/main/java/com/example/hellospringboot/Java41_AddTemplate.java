@@ -1,4 +1,4 @@
 package com.example.hellospringboot;
 
-public class UiDesignTemplate {
+public class Java41_AddTemplate {
 }
