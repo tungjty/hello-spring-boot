@@ -1,4 +1,4 @@
-package com.example.hellospringboot;
+package com.example.hellospringboot.addtemplate;
 
 public class Login {
     public static void main(String[] args) {
