@@ -8,6 +8,6 @@ public class Java_404_jonny_dang {
     }
 
     static double sum (int i, int j) {
-        return 0;
+        return 1;
     }
 }
