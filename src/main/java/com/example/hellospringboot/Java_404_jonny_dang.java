@@ -10,6 +10,10 @@ public class Java_404_jonny_dang {
     static double sum (int i, int j) {
         return 0;
     }
+    
+    static double multiply(float a, float b) {
+        return 0d;
+    }
 
     void println(String str) {
         System.out.println(str);
