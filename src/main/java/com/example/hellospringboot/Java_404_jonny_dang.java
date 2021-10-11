@@ -15,7 +15,4 @@ public class Java_404_jonny_dang {
         return 0d;
     }
 
-    void println(String str) {
-        System.out.println(str);
-    }
 }
