@@ -12,6 +12,7 @@ public class Java_404_jonny_dang {
     }
 
     void println(String str) {
+        String name;
         System.out.println(str);
     }
 }
