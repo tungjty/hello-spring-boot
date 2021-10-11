@@ -8,11 +8,10 @@ public class Java_404_jonny_dang {
     }
 
     static double sum (int i, int j) {
-        return 1;
+        return 0;
     }
 
     void println(String str) {
-        String name;
         System.out.println(str);
     }
 }
