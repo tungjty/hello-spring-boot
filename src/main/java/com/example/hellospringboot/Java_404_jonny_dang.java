@@ -15,4 +15,8 @@ public class Java_404_jonny_dang {
         return 0d;
     }
 
+    static double minus(int a, int b) {
+        return 0d;
+    }
+
 }
